@@ -1,0 +1,4 @@
+CPU Usage: 3.9%
+Memory Usage: 56.8995%
+Service (apache2) status: inactive
+ALERT: Service apache2 is not running!
